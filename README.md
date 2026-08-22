@@ -20,6 +20,8 @@ I particularly enjoy the kind of debugging that involves emulators, old hardware
 
 Over the years I've created and contributed to quite a few projects, including:
 
+- **[zigimg](https://github.com/zigimg/zigimg)** — a Zig library for reading and writing image formats, where I added support for several formats including TIFF, ILBM/IFF and Sun Raster (RAS).
+- **[SerenityOS](https://github.com/SerenityOS/serenity)** — contributed an ILBM image decoder to this alternative operating system.
 - **[React Explorer](https://github.com/warpdesign/react-explorer)** — a cross-platform file manager written with React and TypeScript.
 - **[AthenaJS](https://athenajs.github.io/)** — a JavaScript framework for creating 2D games.
 - **[modplayer-js](https://github.com/warpdesign/modplayer-js)** — a SoundTracker MOD player using the Web Audio API.
