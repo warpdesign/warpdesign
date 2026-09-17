@@ -12,7 +12,7 @@ A lot of my spare-time work currently revolves around the Amiga and alternative 
 
 - **[AROS](https://github.com/aros-development-team/AROS)** — optimizing and fixing AROS for real Motorola 68k Amiga hardware, including boot-time and performance improvements.
 - **[Copperline](https://github.com/CopperlineHQ/Copperline)** — contributing fixes and improvements to this Amiga emulator written in Rust.
-- **[Haiku](https://github.com/haiku/haiku)** — working on PowerPC/Pegasos 2 support. This one is still very much a work in progress.
+- **[Haiku](https://github.com/haiku/haiku)** — working on [PowerPC/Pegasos 2](https://github.com/warpdesign/Haiku-PowerPC) support. This one is still very much a work in progress.
 
 I particularly enjoy the kind of debugging that involves emulators, old hardware manuals, obscure timing issues and figuring out why something works perfectly in theory but behaves differently on a real machine.
 
